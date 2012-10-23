@@ -1,0 +1,7 @@
+[662]
+boss=6.6.2
+cmt=$CMTHOME662/setupCMT.csh
+
+[663]
+boss=6.6.3
+cmt=$CMTHOME663/setupCMT.csh
